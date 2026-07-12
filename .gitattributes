@@ -1,7 +1,7 @@
 * text=auto
 
-# Explicitly mark .l files as Lex language
-*.l linguist-language=Lex
+# Explicitly mark .l files as LEX language
+*.l linguist-language=LEX
 
 # Treat .l files as text
 *.l text
