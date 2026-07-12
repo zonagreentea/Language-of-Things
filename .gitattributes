@@ -1,0 +1,10 @@
+* text=auto
+
+# Explicitly mark .l files as Lex language
+*.l linguist-language=Lex
+
+# Treat .l files as text
+*.l text
+
+# Optional: if you want syntax highlighting to use specific rules
+# *.l linguist-syntaxes=lex
